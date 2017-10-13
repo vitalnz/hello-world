@@ -1,2 +1,6 @@
 # hello-world
 My repository to github created on octber 13th 2017. This could be changed or removed anytime later on...
+
+About me:
+Names: Vital Nzabanita
+Experience: GIS, Remote Sensing, Spatial statistics, Geoprocessing, Web mapping, Online field data collection, Open sources GIS, ....
